@@ -4,11 +4,11 @@
 
 A simple site to track a budget.
 
-![Screenshot of site](assets\screenshot.png)
+![Screenshot of site](./assets/screenshot.png)
 
 ## Website
 
-[Go to site](https://dashboard.heroku.com/apps/young-savannah-45376)
+[Go to site](https://young-savannah-45376.herokuapp.com/)
 
 ## Usage 
 
